@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  gestiondeslivres:
+    image: ${DOCKER_REGISTRY-}gestiondeslivres
+    build:
+      context: .
+      dockerfile: GestionDesLivres/Dockerfile
+  gestiondeslivres.bd:
+    image: rapidfort/microsoft-sql-server-2019-ib

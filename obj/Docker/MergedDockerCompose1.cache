@@ -1,0 +1,53 @@
+name: dockercompose15564512114340292930
+services:
+  gestiondeslivres:
+    build:
+      context: C:\Users\SYABE-ROCO\source\repos\GestionDesLivres
+      dockerfile: GestionDesLivres/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: gestiondeslivres
+    networks:
+      monreseau: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\SYABE-ROCO\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\SYABE-ROCO\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  gestiondeslivres.bd:
+    container_name: gestion_des_livres_bd
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: SwN12345678
+    image: rapidfort/microsoft-sql-server-2019-ib
+    networks:
+      monreseau: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: bind
+        source: C:\Users\SYABE-ROCO\source\repos\GestionDesLivres\containers\database
+        target: /var/opt/data
+        bind:
+          create_host_path: true
+networks:
+  monreseau:
+    name: dockercompose15564512114340292930_monreseau
+    driver: bridge

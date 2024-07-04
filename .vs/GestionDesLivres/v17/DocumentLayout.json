@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\views\\book\\listebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\views\\book\\listebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\models\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\models\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\models\\bookliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\models\\bookliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F7743A-A81E-4BED-AACC-F753BA0195FD}|docker-compose.dcproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10F7743A-A81E-4BED-AACC-F753BA0195FD}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F7743A-A81E-4BED-AACC-F753BA0195FD}|docker-compose.dcproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10F7743A-A81E-4BED-AACC-F753BA0195FD}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F7743A-A81E-4BED-AACC-F753BA0195FD}|docker-compose.dcproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10F7743A-A81E-4BED-AACC-F753BA0195FD}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\gestiondeslivres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\gestiondeslivres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\migrations\\20240630204139_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\migrations\\20240630204139_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\models\\gestiondeslivredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\models\\gestiondeslivredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|c:\\users\\syabe-roco\\source\\repos\\gestiondeslivres\\gestiondeslivres\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{421742D9-BF0A-4DA8-BCF4-F1F9DEC5D448}|GestionDesLivres\\GestionDesLivres.csproj|solutionrelative:gestiondeslivres\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-02T21:55:22.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAALsAAAAAAAAAAAAMwMcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-01T13:31:23.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-30T20:57:19.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Dockerfile",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Dockerfile",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Dockerfile",
+              "RelativeToolTip": "GestionDesLivres\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-30T20:56:58.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-30T20:56:41.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestionDesLivres.csproj",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\GestionDesLivres.csproj",
+              "RelativeDocumentMoniker": "GestionDesLivres\\GestionDesLivres.csproj",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\GestionDesLivres.csproj",
+              "RelativeToolTip": "GestionDesLivres\\GestionDesLivres.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T18:53:40.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240630204139_initMigration.cs",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Migrations\\20240630204139_initMigration.cs",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Migrations\\20240630204139_initMigration.cs",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Migrations\\20240630204139_initMigration.cs",
+              "RelativeToolTip": "GestionDesLivres\\Migrations\\20240630204139_initMigration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:41:47.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "GestionDesLivres\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "GestionDesLivres\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-30T19:49:47.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GestionDesLivreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Models\\GestionDesLivreDbContext.cs",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Models\\GestionDesLivreDbContext.cs",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Models\\GestionDesLivreDbContext.cs",
+              "RelativeToolTip": "GestionDesLivres\\Models\\GestionDesLivreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:01:10.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookListe.cs",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Models\\BookListe.cs",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Models\\BookListe.cs",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Models\\BookListe.cs",
+              "RelativeToolTip": "GestionDesLivres\\Models\\BookListe.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAnwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:28:14.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionDesLivres\\appsettings.json",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\appsettings.json",
+              "RelativeToolTip": "GestionDesLivres\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAADUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T10:56:41.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListeBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Views\\Book\\ListeBook.cshtml",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Views\\Book\\ListeBook.cshtml",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Views\\Book\\ListeBook.cshtml",
+              "RelativeToolTip": "GestionDesLivres\\Views\\Book\\ListeBook.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:27:40.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Controllers\\BookController.cs",
+              "RelativeToolTip": "GestionDesLivres\\Controllers\\BookController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAIAwwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:24:03.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Models\\Livre.cs",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Models\\Livre.cs",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Models\\Livre.cs",
+              "RelativeToolTip": "GestionDesLivres\\Models\\Livre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:01:41.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionDesLivres\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:19:20.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Program.cs",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Program.cs",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Program.cs",
+              "RelativeToolTip": "GestionDesLivres\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:17:52.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GestionDesLivres\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:19:01.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GestionDesLivres\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:18:31.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GestionDesLivres\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:18:28.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GestionDesLivres\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GestionDesLivres\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:18:55.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GestionDesLivres\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SYABE-ROCO\\source\\repos\\GestionDesLivres\\GestionDesLivres\\appsettings.Development.json",
+              "RelativeToolTip": "GestionDesLivres\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T09:18:07.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

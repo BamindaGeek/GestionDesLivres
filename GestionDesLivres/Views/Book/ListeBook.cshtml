@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "ListeBook";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model List<Livre>
+
+<h1>ListeBook</h1>
+<div>
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Titre</th>
+                <th scope="col">Contributeur</th>
+                <th scope="col">Autheur</th>
+                <th scope="col">Autheur Key</th>
+                <th scope="col">Année</th>
+                <th scope="col">Producteur</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td id="id" class="id" scope="row">@book.Id</td>
+                    <td id="title"  class="title">@book.title</td>
+                    <td id="contributor" class="contributor">@book.contributor</td>
+                    <td id="author_name" class="author_name">@book.author_name</td>
+                    <td id="author_key" class="author_key">@book.author_key</td>
+                    <td id="year" class="year">@book.first_publish_year</td>
+                    <td id="publisher" class="publisher">@book.publisher</td>
+                    <td><button type="button" id="{{@book.Id}}" class="btn btn-outline-primary btn-sm addlivre">Enregistrer</button></td>
+                </tr>
+            }
+           @*  <tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Otto</td>
+                <td><button type="button" class="btn btn-outline-primary btn-sm addlivre">Enregistrer</button></td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Jacob</td>
+                <td>Thornton</td>
+                <td><button type="button" class="btn btn-outline-primary btn-sm">Enregistrer</button></td>
+            </tr> *@
+        </tbody>
+    </table>
+</div>
+
